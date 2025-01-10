@@ -3,6 +3,7 @@
 This Python program implements a Retrieval-Augmented Generation (RAG) system tailored to answer astronomy-related questions. It combines retrieval of relevant information with generative natural language processing to deliver precise and contextually accurate answers. 
 
 
+
 The following are the key components of this Project:
 
 1. Wikipedia Retrieval:
